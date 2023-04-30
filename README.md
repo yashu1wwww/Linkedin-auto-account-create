@@ -1,6 +1,7 @@
 # Linkedin-auto-account-create
 Linkedin auto account create using selenium with python
 
+Change  9th line and 12th line with email and password.
 After downloading the chromedriver (https://chromedriver.chromium.org/downloads), extract it to the downloaded folder that matches your Chrome version on your PC.
 
 Then, enter "lk.py" in the command prompt or double-click on the "lk.py" file.
